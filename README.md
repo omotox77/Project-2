@@ -19,12 +19,39 @@ To provide insights into products with highest or lowest turnover rates
 2. What Product categories had the lowest turnover?
 
 # Skills and Concepts demonstrated:
-The following Power BI features were incorporated
-- Getting data from the server (Microsoft based via local host computer)
+## The following Power BI features were incorporated
+## Getting data from the server (Microsoft based via local host computer)
 - ![](server_data.png)
-- Modelling relationships with tables where relationships of one to many was created between 2 dimension tables and 1 facr table after proper exploratiry data analysis
+## Modelling relationships with tables where relationships of one to many was created between 2 dimension tables and 1 facr table after proper exploratiry data analysis
 - ![](data_model.png)
-- DAX and Calculated Measure
-- ![](dax.png)
-- Quick Measure
+## DAX and Calculated Measure
+- ![](dax_.png)
+## Quick Measure
 - ![](quick_measure_dax.png)
+
+## Visualization
+The report comprises 5 pages:
+1. Category Sales By Quantity
+2. Sales By Categories
+
+# Detailed Analysis of each Category Sales
+
+## Accessories Category Sales
+- ![](accesories_sales.png)
+- Total Sales = NGN 1.69m
+
+## Bikes Category Sales
+- ![](bikes_sales.png)
+- Total Sales = NGN 145.51m
+
+## Clothing Category Sales
+- ![](clothing_sales.png)
+- Total Sales = NGN 3.42m
+
+## Components Category Sales
+- ![](components_sales.png)
+- Total Sales = NGN 20.34m
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/9692cb45-0a24-4a77-be8d-00437d3d399a/ReportSection82f013fd748601c36982?experience=power-bi)
+
+# Summary:
+# Bikes has the Highest Sales Turover while Accessories has the Lowest Sales Turnover
