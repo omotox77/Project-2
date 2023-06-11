@@ -54,4 +54,4 @@ The report comprises 5 pages:
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/9692cb45-0a24-4a77-be8d-00437d3d399a/ReportSection82f013fd748601c36982?experience=power-bi)
 
 # Summary:
-# Bikes has the Highest Sales Turover while Accessories has the Lowest Sales Turnover
+## Bikes has the Highest Sales Turover while Accessories has the Lowest Sales Turnover
