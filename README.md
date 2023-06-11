@@ -12,7 +12,7 @@ _Disclaimer_ : _Datasets from the Microsoft Adevtureworks database. Used to demo
 with Proving Data Driven Decisions woth power BI_
 
 # Objecive:
-To provide insights into products with highest or lowest turnover rates
+## To provide insights into products with highest or lowest turnover sales
 
 # Problem Statement
 1. What Product categories had the highest turnover?
