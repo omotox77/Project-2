@@ -18,3 +18,11 @@ To provide insights into products with highest or lowest turnover rates
 1. What Product categories had the highest turnover?
 2. What Product categories had the lowest turnover?
 
+# Skills and Concepts demonstrated:
+The following Power BI features were incorporated
+- Getting data from the server (Microsoft based via local host computer)
+- ![](server_data.png)
+- Modelling relationships with tables
+- ![](all_sales_by_category.png)
+- DAX and Calculated Measure
+- Page Navigation and Button
