@@ -8,7 +8,7 @@ This is a Power Bi Project of the Sales & Inventory Analysis of a fiticious Comp
 The Project is to analyze and derive insights to answer crucial questions and make 
 the company make data driven decision
 
-_Disclaimer_ : _Datasets from the Mircosoft Adevtureworks database. Used to demomstrate my learnings and capabilities
+_Disclaimer_ : _Datasets from the Microsoft Adevtureworks database. Used to demomstrate my learnings and capabilities
 with Proving Data Driven Decisions woth power BI_
 
 # Objecive:
