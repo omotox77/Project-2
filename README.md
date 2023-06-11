@@ -22,7 +22,7 @@ To provide insights into products with highest or lowest turnover rates
 ## The following Power BI features were incorporated
 ## Getting data from the server (Microsoft based via local host computer)
 - ![](server_data.png)
-## Modelling relationships with tables where relationships of one to many was created between 2 dimension tables and 1 facr table after proper exploratiry data analysis
+## Modelling relationships with tables where relationships of one to many was created between 2 dimension tables and 1 fact table after proper exploratory data analysis
 - ![](data_model.png)
 ## DAX and Calculated Measure
 - ![](dax_.png)
